@@ -133,3 +133,12 @@ This is how you make decisions in your code.
     You'll see the output of your program in the console.
 
 We hope this guide helps you on your Java journey! Happy coding!
+
+## Practice Problems
+
+*   **Problem 1:** Ask the user for their name and print a greeting. 
+    *   **Example:** If the user enters "Alice", the program should print "Hello Alice!".
+*   **Problem 2:** Ask the user for two numbers, add them together, and print the result.
+    *   **Example:** If the user enters 5 and 10, the program should print "The sum is 15".
+*   **Problem 3:** Ask the user for a number and check if it is even or odd.
+    *   **Example:** If the user enters 7, the program should print "The number is odd".
