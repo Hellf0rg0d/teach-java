@@ -62,7 +62,7 @@ A `String` in Java is more than just a sequence of characters; it's an object wi
 -   `word.toUpperCase()`: Converts the entire string to uppercase (e.g., "I'M LEARNING JAVA").
 -   `word.replaceAll("a", "b")`: Replaces every occurrence of a character or sequence of characters with another.
 -   `word.length()`: Returns the number of characters in the string.
-For more builr-in methods checkout -> https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+-   For more built-in methods checkout -> https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 
 ### 2. Program Control with Loops
 
