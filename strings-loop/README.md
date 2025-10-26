@@ -62,6 +62,7 @@ A `String` in Java is more than just a sequence of characters; it's an object wi
 -   `word.toUpperCase()`: Converts the entire string to uppercase (e.g., "I'M LEARNING JAVA").
 -   `word.replaceAll("a", "b")`: Replaces every occurrence of a character or sequence of characters with another.
 -   `word.length()`: Returns the number of characters in the string.
+For more builr-in methods checkout -> https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 
 ### 2. Program Control with Loops
 
@@ -151,6 +152,6 @@ Here are some challenges to test your understanding. Try to solve them yourself!
     *   Ask the user for a word.
     *   Write a program that prints the word in reverse.
     *   **Example:** If the user enters "Java", the program should print "avaJ".
-    *   **Hint:** Use a `for` loop that starts from the end of the string and goes to the beginning.
+    *   **Hint:** Use a `for` loop that starts from the end of the string and goes to the beginning or use the built-in method to reverse the String.
 
 ```
