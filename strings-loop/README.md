@@ -153,5 +153,4 @@ Here are some challenges to test your understanding. Try to solve them yourself!
     *   Write a program that prints the word in reverse.
     *   **Example:** If the user enters "Java", the program should print "avaJ".
     *   **Hint:** Use a `for` loop that starts from the end of the string and goes to the beginning or use the built-in method to reverse the String.
-
 ```
